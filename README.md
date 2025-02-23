@@ -2,4 +2,4 @@
 
 Layout for my keyboard
 
-![layout](./img/screen.png)
+![layout](./img/screen.svg)
